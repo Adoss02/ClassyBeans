@@ -4,6 +4,7 @@ Classy Beans is a faction war based Modpack built for the Classy Beans server.
 We wanted to release our Modpack out into the open for all to see and experience.
  
 
+
 What does it contain?
 
 We build our Modpack to contain a wide variety of mods. (too many to cover here)
@@ -11,10 +12,12 @@ However in a general view, it is PVP/PVE focused with multiple choices to destro
 Multiple vehicles, aircraft, and weapons for any situation.
 
 
+
 How can I join?
 
 Unfortunately, as of right now there is no public Classy Beans server.
 This may change in the future.
+
 
 
 I found a bug!
