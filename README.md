@@ -29,11 +29,13 @@ Make sure to include a detailed explanation of the issue/bug, and if applicable,
 
 How to install:
 
-1. Download the modpack in releases
+1. Download the modpack from releases.
+
 
 2. Download and Install the Curseforge Launcher from: https://download.curseforge.com/
 
 3. Import the .zip file by click "Create Custom Profile" then Import.
+
 ![image](https://user-images.githubusercontent.com/67236778/218290440-4f931fed-1ac5-456d-a658-de64bee9642a.png)
 
 ![image](https://user-images.githubusercontent.com/67236778/218290448-5beb5ffc-1723-412c-920b-c2f6d4ff8747.png)
